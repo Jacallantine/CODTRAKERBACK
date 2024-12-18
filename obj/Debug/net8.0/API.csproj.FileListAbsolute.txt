@@ -48,3 +48,4 @@ C:\Users\jared\Documents\321\COD\API\obj\Debug\net8.0\refint\API.dll
 C:\Users\jared\Documents\321\COD\API\obj\Debug\net8.0\API.pdb
 C:\Users\jared\Documents\321\COD\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\jared\Documents\321\COD\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\jared\Documents\321\COD\api\obj\Debug\net8.0\API.sourcelink.json
