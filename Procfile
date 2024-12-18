@@ -1,1 +1,1 @@
-web: dotnet run
+web: dotnet API.dll
