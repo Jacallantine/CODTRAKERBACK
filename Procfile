@@ -1,1 +1,1 @@
-web : dotnet publish
+web : dotnet run
