@@ -14,7 +14,7 @@ public class Database{
 
     public Database()
     {
-         cs = "server=ol5tz0yvwp930510.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;database=l44mtoa1n4wh6y74;user=uzf11anultxdooek;password=zpnhnut70jwyrbgw;port=3306;";
+         cs = "server=ol5tz0yvwp930510.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;database=l44mtoa1n4wh6y74;user=uzf11anultxdooek;password=rxy9v076u80qalud;port=3306;";
     }
 
 
